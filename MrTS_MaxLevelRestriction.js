@@ -20,7 +20,7 @@
 * --------------------------------------------------------------------------------
 * Plugin Commands
 * --------------------------------------------------------------------------------
-* MaxLevel GlobalSet [LEVEL] - sets global max level restriction to [LEVEL]
+* MaxLevel GlobalSet 800 - sets global max level restriction to [LEVEL]
 * MaxLevel GlobalLift - removes global max level restriction
 *
 * MaxLevel ActorSet [LEVEL] [ID] - sets max level restriction to [ID] of actor
